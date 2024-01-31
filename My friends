@@ -1,4 +1,4 @@
-html>
+<html>
     <head>
         <title>My Friends</title>
         <banner>
@@ -19,5 +19,23 @@ html>
     </head>
     <body>
         <banner> <img src="krm.png"> </banner>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>ygg</title>
+    </head>
+    <body>
+        <banner> <img src="ygg.png"> </banner>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>bdg</title>
+    </head>
+    <body>
+        <banner> <img src="bdg.png"> </banner>
     </body>
 </html>
