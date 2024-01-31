@@ -1,0 +1,23 @@
+html>
+    <head>
+        <title>My Friends</title>
+        <banner>
+    </head>
+    <frameset cols="*,*,*">
+        <frame name="syuu" src="ygg.html">
+        <frame name="kx" src="krm.html">
+        <frame name="jon" src="bdg.html">
+    </frameset>
+    <body>
+        
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>krm</title>
+    </head>
+    <body>
+        <banner> <img src="krm.png"> </banner>
+    </body>
+</html>
